@@ -17,5 +17,7 @@ covered by that project's licence.
 ## Reporting a problem
 
 Open an issue with the template. Issues are public: please do not paste
-buffer contents, source code, or absolute paths from your machine — the
-plugin's log (Help → Show Log) redacts these, so prefer attaching it.
+buffer contents, source code, or absolute paths from your machine. The
+plugin's log (Help → Show Log) redacts licensing credentials and shortens
+your home directory to `~`, but it does not scrub buffer data, source, or
+other paths, so review it before attaching.
