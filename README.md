@@ -1,8 +1,8 @@
 # Open Image Debugger for JetBrains IDEs
 
-Issue tracker and legal documents for the
-[Open Image Debugger plugin](https://plugins.jetbrains.com/) for CLion and
-Android Studio.
+Issue tracker and third-party notices for the
+[Open Image Debugger plugin](https://plugins.jetbrains.com/plugin/33640-open-image-debugger)
+for CLion and Android Studio.
 
 The plugin is **commercial software and its source code is not public** —
 there is no plugin source in this repository to build. It is built on the
@@ -10,9 +10,12 @@ open-source [OpenImageDebugger](https://github.com/OpenImageDebugger/OpenImageDe
 engine; the plugin itself is a separate, commercial product and is not
 covered by that project's licence.
 
-- [End User Licence Agreement](EULA.md)
-- [Privacy policy](PRIVACY.md)
+- [End User License Agreement](https://plugins.jetbrains.com/plugin/33640-open-image-debugger/licensing)
+- [Privacy policy](https://plugins.jetbrains.com/plugin/33640-open-image-debugger/privacy-policy)
 - [Third-party notices](THIRD-PARTY-NOTICES.md)
+
+The license and privacy policy are maintained on the plugin's Marketplace
+page, so there is one copy of each rather than two that can disagree.
 
 ## Reporting a problem
 
